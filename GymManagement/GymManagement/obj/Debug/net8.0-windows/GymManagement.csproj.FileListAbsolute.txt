@@ -1,0 +1,52 @@
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.exe
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.deps.json
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.runtimeconfig.json
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.dll
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.pdb
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.Login.resources
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.MainForm.resources
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.Properties.Resources.resources
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.csproj.GenerateResource.cache
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.AssemblyInfoInputs.cache
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.AssemblyInfo.cs
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.dll
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\refint\GymManagement.dll
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.pdb
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.genruntimeconfig.cache
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\ref\GymManagement.dll
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.AddMember.resources
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.Payment.resources
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.UpdateDelete.resources
+C:\Users\Payal Bansal\source\repos\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.viewMember.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.AddMember.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.Login.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.MainForm.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.Payment.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.Properties.Resources.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.UpdateDelete.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.viewMember.resources
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.csproj.GenerateResource.cache
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.AssemblyInfoInputs.cache
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.AssemblyInfo.cs
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.csproj.CoreCompileInputs.cache
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\refint\GymManagement.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.pdb
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.exe
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.deps.json
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.runtimeconfig.json
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\GymManagement.pdb
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.csproj.AssemblyReference.cache
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.csproj.CopyComplete
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\GymManagement.genruntimeconfig.cache
+C:\Users\Khushi\Desktop\GymManagement[1]\GymManagement\GymManagement\obj\Debug\net8.0-windows\ref\GymManagement.dll
